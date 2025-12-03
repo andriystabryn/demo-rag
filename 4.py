@@ -4,6 +4,7 @@ Langchain Agent with a tool to get the product info from API
 examples:
 What is the price of the iPhone 16 Pro?
 I don't know which phone to choose? I'm looking for something around $800.
+Which phone will have more space?
 """
 import os
 from dotenv import load_dotenv
