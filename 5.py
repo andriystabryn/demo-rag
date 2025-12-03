@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
 """
 Langchain Agent with a tool to get the product info from API and chat memory
-!!!!!SHOW color example: 
-hey, i want a budget phone
-what color do you have 15 pro?
-examples:
-What is the price of the laptop?
-Tell me about the smartphone features
-Which products are in stock?
+The previous examples work now:
+I don't know which phone to choose? I'm looking for something around $800.
+Which phone will have more space?
 """
 import os
 from dotenv import load_dotenv

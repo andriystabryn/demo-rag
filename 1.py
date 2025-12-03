@@ -3,7 +3,8 @@
 Simple langchain request to LLM
 examples:
 What is the date today?
-How many vacations are in Agiliway company?
+How many vacations can you take in Agiliway?
+What is the price of the iPhone 16 Pro?
 """
 import os
 from dotenv import load_dotenv

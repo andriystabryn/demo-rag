@@ -2,7 +2,8 @@
 """
 Langchain Agent with a tool to get the Agiliway info from txt file
 examples:
-How many vacations are in Agiliway company?
+How many vacations can you take in Agiliway?
+Where is the Agileway office located?
 """
 import os
 from dotenv import load_dotenv
